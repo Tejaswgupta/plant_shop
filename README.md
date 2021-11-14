@@ -1,7 +1,5 @@
 # plant_shop
 
-Screenshots: https://www.behance.net/cybdom
-
 
 <img src="screenshot1.png">
 <img src="screenshot2.png">
